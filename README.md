@@ -1,6 +1,6 @@
 # Oi, eu sou o Wernnevon 👋
 
-**Desenvolvedor Front-end Pleno** · Angular · TypeScript · RxJS
+**Desenvolvedor Front-end Pleno** · Angular · TypeScript · RxJS  
 Paraíba, Brasil · trabalho remoto
 
 Atuo com **Angular 17+** no dia a dia profissional e **Angular 22+** nos meus projetos pessoais. Também tenho experiência com React, Next.js, React Native e Ionic.
